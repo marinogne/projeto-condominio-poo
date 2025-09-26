@@ -1,0 +1,7 @@
+morador- nome, apartamento, bloco, cadastro
+Acesso- Cadastro, Cod de acesso, data entrada, data saida
+condomínio- endereço, nome fantasia. 
+encomendas- bloco, apartamento, data de entrega, data de retirada
+visitante- nome, cod cadastro visitante, CPF, Data de Nasc
+Porteiro- Nome, cod de cadastro funcionario
+prestadores de serviço -  nome, função, cod de cadastro
