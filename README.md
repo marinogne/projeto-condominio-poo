@@ -30,8 +30,6 @@ A arquitetura do sistema foi baseada em um diagrama de classes bem estruturado, 
 
 ![Diagrama de Classes do Sistema de Condomínio](diagrama-classes.png)
 
-*(Dica: Você pode conferir o Diagrama de Classes e o Documento de Requisitos na pasta `/docs` deste repositório).*
-
 ## 👥 Equipe Desenvolvedora
 * **Mariana Nogueira Neves**
 * **Victor Magno de Freitas**
