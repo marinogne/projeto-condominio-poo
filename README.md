@@ -28,7 +28,7 @@ A arquitetura do sistema foi baseada em um diagrama de classes bem estruturado, 
 * `Acesso` (Controle de permissões, datas previstas e validade)
 * `Encomendas` (Registro de rastreio interno)
 
-![Diagrama de Classes do Sistema de Condomínio](assets/diagrama-classes.png)
+![Diagrama de Classes do Sistema de Condomínio](diagrama-classes.png)
 
 *(Dica: Você pode conferir o Diagrama de Classes e o Documento de Requisitos na pasta `/docs` deste repositório).*
 
